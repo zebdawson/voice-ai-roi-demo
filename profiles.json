@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Small Independent Shop",
+    "AOR": 250,
+    "CPW": 20,
+    "AR": 0.6,
+    "CR_answered": 0.10,
+    "CR_missed_retry": 0.04,
+    "Labor_month": 1800,
+    "VoiceAICostPerMonth": 350,
+    "Uplift_answer_rate": 0.25,
+    "Uplift_conversion": 0.02,
+    "T_months": 12
+  },
+  {
+    "name": "Busy Regional Shop",
+    "AOR": 450,
+    "CPW": 90,
+    "AR": 0.65,
+    "CR_answered": 0.13,
+    "CR_missed_retry": 0.05,
+    "Labor_month": 4200,
+    "VoiceAICostPerMonth": 850,
+    "Uplift_answer_rate": 0.18,
+    "Uplift_conversion": 0.035,
+    "T_months": 12
+  },
+  {
+    "name": "Multi-bay High Volume Shop",
+    "AOR": 650,
+    "CPW": 180,
+    "AR": 0.72,
+    "CR_answered": 0.16,
+    "CR_missed_retry": 0.06,
+    "Labor_month": 9000,
+    "VoiceAICostPerMonth": 1400,
+    "Uplift_answer_rate": 0.15,
+    "Uplift_conversion": 0.04,
+    "T_months": 12
+  }
+]
